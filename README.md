@@ -1,5 +1,5 @@
-### Activity - Automating and Optimizing 
+# Activity - Automating and Optimizing 
 
-## Goal
+### Goal
 
 The purpose of this project is to demonstrate how to use Copilot to automate infrastructure, CI/CD, and monitoring as part of a complete DevOps workflow.
